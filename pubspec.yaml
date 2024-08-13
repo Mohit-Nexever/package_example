@@ -1,5 +1,5 @@
-name: package_example
-description: "A new Flutter project."
+name: package_example_new
+description: "This is optional for your own personal packages, but if you intend to publish your package you must provide a description, which should be in English. The description should be relatively short—60 to 180 characters—and tell a casual reader what they might want to know about your package."
 version: 0.0.1
 homepage:
 
